@@ -18,6 +18,3 @@ while True:
     o.sendmail(email, target_email, msg)
     print()
     print("Message sent.")
-
-
-
